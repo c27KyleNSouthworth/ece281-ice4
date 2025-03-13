@@ -71,7 +71,7 @@ end stoplight_fsm;
 
 architecture stoplight_fsm_arch of stoplight_fsm is 
 	
-	-- create register signals with default state yellow (10)
+	-- create register signals with default state yellow (10)  
   
 begin
 	-- CONCURRENT STATEMENTS ----------------------------
